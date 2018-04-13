@@ -1,5 +1,5 @@
-//hello//
-/*laugh*/
+// Comment your JavaScript Code // 
+/* Comment your JavaScript Code */
 
 var myName; // declaring a variable
 
