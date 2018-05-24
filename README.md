@@ -1,4 +1,4 @@
-# Free Code camp - Basic JavaScript
+# Basic JavaScript
 
 Variables:----------------------
 - Comment your JavaScript Code
