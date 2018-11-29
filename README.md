@@ -46,17 +46,6 @@ Bracket:---------------------
 - Use Bracket Notation to Find the Last Character in a String
 - Use Bracket Notation to Find the Nth-to-Last Character in a String
 
-Arrays:----------------------
-- Store Multiple Values in one Variable using JavaScript Arrays
-- Nest one Array within Another Array
-- Access Array Data with Indexes
-- Modify Array Data With Indexes
-- Access Multi-Dimensional Arrays With Indexes
-- Manipulate Arrays With push()
-- Manipulate Arrays With pop()
-- Manipulate Arrays With shift()
-- Manipulate Arrays With unshift()
-
 Functions:------------------
 - Write Reusable JavaScript with Functions
 - Passing Values to Functions with Arguments
