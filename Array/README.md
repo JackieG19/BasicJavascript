@@ -1,6 +1,5 @@
 ## Arrays
 
-- Store Multiple Values in one Variable 
 - Nest one Array within Another Array
 - Access Array Data with Indexes
 - Modify Array Data With Indexes
