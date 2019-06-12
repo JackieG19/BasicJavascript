@@ -46,18 +46,6 @@ Boolean:----------------
 - Understanding Boolean Values
 - Returning Boolean Values from Functions
 
-Comparison:---------------
-- Comparison with the Equality Operator
-- Comparison with the Strict Equality Operator
-- Comparison with the Inequality Operator
-- Comparison with the Strict Inequality Operator
-- Comparison with the Greater Than Operator
-- Comparison with the Greater Than Or Equal To Operator
-- Comparison with the Less Than Operator
-- Comparison with the Less Than Or Equal To Operator
-- Comparisons with the Logical And Operator
-- Comparisons with the Logical Or Operator
-
 Statements:--------------------
 - Introducing Else Statements
 - Introducing Else If Statements
