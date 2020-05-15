@@ -42,10 +42,6 @@ Functions:------------------
 - Return Early Pattern for Functions
 - Assignment with a Returned Value
 
-Boolean:----------------
-- Understanding Boolean Values
-- Returning Boolean Values from Functions
-
 Statements:--------------------
 - Introducing Else Statements
 - Introducing Else If Statements
