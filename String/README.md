@@ -1,0 +1,11 @@
+## String
+- Declare String Variables
+- Escaping Literal Quotes in Strings
+- Quoting Strings with Single Quotes
+- Escape Sequences in Strings
+- Concatenating Strings with Plus Operator
+- Concatenating Strings with the Plus Equals Operator
+- Constructing Strings with Variables
+- Appending Variables to Strings
+- Find the Length of a String
+- Understand String Immutability
