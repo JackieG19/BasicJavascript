@@ -1,27 +1,5 @@
 ### Basic JavaScript
 
-String:---------------------
-- Declare String Variables
-- Escaping Literal Quotes in Strings
-- Quoting Strings with Single Quotes
-- Escape Sequences in Strings
-- Concatenating Strings with Plus Operator
-- Concatenating Strings with the Plus Equals Operator
-- Constructing Strings with Variables
-- Appending Variables to Strings
-- Find the Length of a String
-- Understand String Immutability
-
-Functions:------------------
-- Write Reusable JavaScript with Functions
-- Passing Values to Functions with Arguments
-- Global Scope and Functions
-- Local Scope and Functions
-- Global vs. Local Scope in Functions
-- Return a Value from a Function with Return
-- Return Early Pattern for Functions
-- Assignment with a Returned Value
-
 Statements:--------------------
 - Introducing Else Statements
 - Introducing Else If Statements
