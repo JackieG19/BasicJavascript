@@ -1,19 +1,5 @@
 ### Basic JavaScript
 
-Variables:----------------------
-- Comment your JavaScript Code
-- Declare JavaScript Variables
-- Storing Values with the Assignment Operator
-- Initializing Variables with the Assignment Operator
-- Understanding Uninitialized Variables
-- Understanding Case Sensitivity in Variables
-
-Compound:----------------------------
-- Compound Assignment With Augmented Addition
-- Compound Assignment With Augmented Subtraction
-- Compound Assignment With Augmented Multiplication
-- Compound Assignment With Augmented Division
-
 String:---------------------
 - Declare String Variables
 - Escaping Literal Quotes in Strings
