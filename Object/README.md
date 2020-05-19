@@ -1,0 +1,11 @@
+## Object
+- Build JavaScript Objects
+- Accessing Objects Properties with the Dot Operator
+- Accessing Objects Properties with Bracket Notation
+- Accessing Objects Properties with Variables
+- Updating Object Properties
+- Add New Properties to a JavaScript Object
+- Delete Properties from a JavaScript Object
+- Using Objects for Lookups
+- Testing Objects for Properties
+- Manipulating Complex Objects
