@@ -1,16 +1,10 @@
 ### Basic JavaScript
 
-Object:--------------------
-- Build JavaScript Objects
-- Accessing Objects Properties with the Dot Operator
-- Accessing Objects Properties with Bracket Notation
-- Accessing Objects Properties with Variables
-- Updating Object Properties
-- Add New Properties to a JavaScript Object
-- Delete Properties from a JavaScript Object
-- Using Objects for Lookups
-- Testing Objects for Properties
-- Manipulating Complex Objects
+Switch:----------------------
+- Selecting from many options with Switch Statements
+- Adding a default option in Switch statements
+- Multiple Identical Options in Switch Statements
+- Replacing If Else Chains with Switch
 
 Nesting:-----------------
 - Accessing Nested Objects
