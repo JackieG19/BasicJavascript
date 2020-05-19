@@ -1,18 +1,5 @@
 ### Basic JavaScript
 
-Statements:--------------------
-- Introducing Else Statements
-- Introducing Else If Statements
-- Logical Order in If Else Statements
-- Use Conditional Logic with If Statements
-- Chaining If Else Statements
-
-Switch:----------------------
-- Selecting from many options with Switch Statements
-- Adding a default option in Switch statements
-- Multiple Identical Options in Switch Statements
-- Replacing If Else Chains with Switch
-
 Object:--------------------
 - Build JavaScript Objects
 - Accessing Objects Properties with the Dot Operator
