@@ -6,18 +6,6 @@ Switch:----------------------
 - Multiple Identical Options in Switch Statements
 - Replacing If Else Chains with Switch
 
-Nesting:-----------------
-- Accessing Nested Objects
-- Accessing Nested Arrays
-- Nesting For Loops
-
-Loops:-------------------
-- Iterate with JavaScript For Loops
-- Iterate Odd Numbers With a For Loop
-- Count Backwards With a For Loop
-- Iterate Through an Array with a For Loop
-- Iterate with JavaScript While Loops
-
 Generate:-----------------
 - Generate Random Fractions with JavaScript
 - Generate Random Whole Numbers with JavaScript
