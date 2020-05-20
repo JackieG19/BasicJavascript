@@ -6,10 +6,12 @@ Switch:----------------------
 - Multiple Identical Options in Switch Statements
 - Replacing If Else Chains with Switch
 
-Generate:-----------------
-- Generate Random Fractions with JavaScript
-- Generate Random Whole Numbers with JavaScript
-- Generate Random Whole Numbers within a Range
+Loops:-------------------
+- Iterate with JavaScript For Loops
+- Iterate Odd Numbers With a For Loop
+- Count Backwards With a For Loop
+- Iterate Through an Array with a For Loop
+- Iterate with JavaScript While Loops
 
 Expressions:----------------
 - Swift through Text with Regular Expressions
